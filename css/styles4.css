@@ -1,0 +1,38 @@
+body{
+    font-size: medium;
+    margin: 0;
+}
+
+header, footer {
+background: purple;
+height: 100px;
+}
+
+h1 {
+    text-align: center;
+    line-height: 100px;
+    color: white;
+    margin: 0;
+}
+
+article {
+    padding: 10px;
+    margin: 10px;
+    background-color: aqua;
+    flex: 1
+}
+
+.sidebar{
+    min-width: 200px;
+}
+
+.main-container{
+    display: flex;
+}
+
+ul{
+    padding: 10px;
+    font-weight: bold;
+    line-height: 45px;
+    font-size:x-large;
+}

@@ -1,0 +1,27 @@
+body{
+    background-color: wheat;
+}
+
+
+footer{
+    background-color:mediumslateblue;
+    text-align: center;
+    height: 70px;
+}
+
+
+.Navcolor{
+    background-color:mediumslateblue;
+}
+
+.column1{
+    background-color: red;
+}
+
+.column3{
+    background-color: blue;
+}
+
+.column2{
+    background-color: white;
+}
